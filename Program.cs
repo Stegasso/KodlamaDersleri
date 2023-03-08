@@ -23,8 +23,7 @@
                 Console.WriteLine(kredi.Name + " : " + Convert.ToString(kredi.Ammount));
             }
 
-            Console.WriteLine("Changed");
-            Console.WriteLine("Changed again");
+          
 
         }
     }
