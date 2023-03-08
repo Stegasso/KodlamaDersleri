@@ -24,6 +24,7 @@
             }
 
             Console.WriteLine("Changed");
+            Console.WriteLine("Changed again");
 
         }
     }
